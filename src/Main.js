@@ -68,7 +68,11 @@ function Main() {
       {showBanner && (
         <div id="banner">
           <p>
-            Are you thinking about killing yourself? Talk to someone in the New Jersey by calling or texting{' '}
+            Are you thinking about killing yourself? Chat with 988NJ {' '}
+            <a href="http://988njai.arvrtise.com" target="_blank" rel="noreferrer">
+              AI 
+            </a> 
+            Talk to someone in New Jersey by calling or texting{' '}
             <i>
               <a href="tel:988" target="_blank" rel="noreferrer">
                 988
