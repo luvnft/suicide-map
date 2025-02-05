@@ -71,7 +71,7 @@ function Main() {
             Are you thinking about killing yourself? Chat with 988NJ {' '}
             <a href="http://988njai.arvrtise.com" target="_blank" rel="noreferrer">
               AI 
-            </a> 
+            </a>.  
             Talk to someone in New Jersey by calling or texting{' '}
             <i>
               <a href="tel:988" target="_blank" rel="noreferrer">
